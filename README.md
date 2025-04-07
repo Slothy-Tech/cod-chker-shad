@@ -1,10 +1,10 @@
 <!-- SEO Meta Tags (for GitHub Pages or rendering on a site) -->
-<meta name="title" content="Call of Duty Shadow Checker - Best Free Tool to Check Your Ban Status in 2025">
+<meta name="title" content="Call of Duty Shadow Ban Checker - Best Free Tool to Check Your Ban Status in 2025">
 <meta name="description" content="Check your Call of Duty shadow ban status instantly with this free tool. Works for Warzone, Modern Warfare, Black Ops, and more on Windows 10 & 11.">
 <meta name="keywords" content="Call of Duty Shadow Checker, Shadow Ban Checker, Warzone Shadow Ban, COD Ban Status, Free Shadow Checker, Activision Ban Check, COD Tool 2025">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-# Call of Duty Shadow Checker - Best Free Tool to Check Your Ban Status in 2025
+# Call of Duty Shadow Ban Checker - Best Free Tool to Check Your Ban Status in 2025
 
 ![License](https://img.shields.io/badge/license-Free-blue)
 ![Status](https://img.shields.io/badge/status-Active-brightgreen)
